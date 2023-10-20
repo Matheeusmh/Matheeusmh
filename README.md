@@ -10,19 +10,27 @@
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matheeusmh&bg_color=0d1117&color=3300FF&line=bfc7ce&point=3300FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+### Main skills:
+![C](https://img.shields.io/badge/-c-6666FF?style=for-the-badge&logo=C&logoColor=0D1117&labelColor=3300FF)
+![Python](https://img.shields.io/badge/-Python-6666FF?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=3300FF)
+
+
+
 ### Tools:
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-<!-- ![Git](https://img.shields.io/badge/-Git-0D1117?style=for-the-badge&logo=git&labelColor=0D1117)&nbsp; -->
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23121011.svg?style=for-the-badge&logo=notion&logoColor=white)
-
-
-### Social media:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/matheeus_mh/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-h-a-pires-9731ba219/)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-6666FF?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=3300FF)
+![GitHub](https://img.shields.io/badge/-GitHub-6666FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=3300FF)
+![Windows](https://img.shields.io/badge/-Windows-6666FF?style=for-the-badge&logo=windows&logoColor=0D1117&labelColor=3300FF)
+![microsoft-office](https://img.shields.io/badge/-microsoft_office-6666FF?style=for-the-badge&logo=microsoft-office&logoColor=0D1117&labelColor=3300FF)
+  
 ### Studying in this moment:
-![C](https://img.shields.io/badge/-C-0D1117?style=for-the-badge&logo=C&labelColor=0D1117&textColor=8B0000)&nbsp;
+![C](https://img.shields.io/badge/-c-6666FF?style=for-the-badge&logo=C&logoColor=0D1117&labelColor=3300FF)
+![Python](https://img.shields.io/badge/-Python-6666FF?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=3300FF)
+
+
+### Find me:
+[![Instagram](https://img.shields.io/badge/-Instagram-6666FF?style=for-the-badge&logo=instagram&logoColor=0D1117&labelColor=3300FF)](https://www.instagram.com/matheeus_mh/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6666FF?style=for-the-badge&logo=LinkedIn&logoColor=0D1117&labelColor=3300FF)](https://www.linkedin.com/in/matheus-h-a-pires-9731ba219/)
+
 
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
