@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3300FF&size=35&center=true&vCenter=true&width=1000&lines=HEY!WHAT’S+UP?;+I'm+Matheus+Henrique!;I'm+18+years+old.;I'm+from+Brazil,+MG.;I+study+Computer+Science+at+UFCAT.;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheeusmh&show_icons=true&count_private=true&hide_border=true&title_color=3300FF&icon_color=3333FF&text_color=FFFFFF&bg_color=0d1117" alt="Matheus Henrique github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheeusmh&show_icons=true&count_private=true&hide_border=true&title_color=3300FF&icon_color=3333FF&text_color=c9d1d9F&bg_color=0d1117" alt="Matheus Henrique github stats" /> 
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheeusmh&layout=compact&hide_border=true&title_color=3300FF&text_color=3333FF&bg_color=0d1117" />
 </div>
 
