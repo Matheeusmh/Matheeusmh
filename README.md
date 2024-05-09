@@ -11,8 +11,8 @@
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matheeusmh&bg_color=0d1117&color=3300FF&line=bfc7ce&point=3300FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ### Main skills:
+![Java](https://img.shields.io/badge/-Java-6666FF?style=for-the-badge&logo=java&logoColor=0D1117&labelColor=3300FF)
 ![C](https://img.shields.io/badge/-c-6666FF?style=for-the-badge&logo=C&logoColor=0D1117&labelColor=3300FF)
-![Python](https://img.shields.io/badge/-Python-6666FF?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=3300FF)
 
 
 
@@ -23,6 +23,7 @@
 ![microsoft-office](https://img.shields.io/badge/-microsoft_office-6666FF?style=for-the-badge&logo=microsoft-office&logoColor=0D1117&labelColor=3300FF)
   
 ### Studying in this moment:
+![Java](https://img.shields.io/badge/-Java-6666FF?style=for-the-badge&logo=java&logoColor=0D1117&labelColor=3300FF)
 ![C](https://img.shields.io/badge/-c-6666FF?style=for-the-badge&logo=C&logoColor=0D1117&labelColor=3300FF)
 ![Python](https://img.shields.io/badge/-Python-6666FF?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=3300FF)
 
