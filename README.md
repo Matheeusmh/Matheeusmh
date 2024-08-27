@@ -1,40 +1,51 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3300FF&height=120&section=header"/>
+<h2 align="left">Hi 👋! My name is Matheus and I'm a Computer Science Student, from Universidade Federal de Uberlândia (UFU)</h2>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3300FF&size=35&center=true&vCenter=true&width=1000&lines=HEY!WHAT’S+UP?;+I'm+Matheus+Henrique!;I'm+19+years+old.;I'm+from+Brazil,+MG.;I+study+Computer+Science+at+UFCAT.;Be+Welcome!+:%29)](https://git.io/typing-svg)
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Matheeusmh&show_icons=true&count_private=true&hide_border=true&title_color=3300FF&icon_color=3333FF&text_color=c9d1d9F&bg_color=0d1117" alt="Matheus Henrique github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheeusmh&layout=compact&hide_border=true&title_color=3300FF&text_color=3333FF&bg_color=0d1117" />
-</div>
-
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Matheeusmh&bg_color=0d1117&color=3300FF&line=bfc7ce&point=3300FF&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-### Main skills:
-![Java](https://img.shields.io/badge/-Java-6666FF?style=for-the-badge&logo=java&logoColor=0D1117&labelColor=3300FF)
-![C](https://img.shields.io/badge/-c-6666FF?style=for-the-badge&logo=C&logoColor=0D1117&labelColor=3300FF)
-
-
-
-### Tools:
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-6666FF?style=for-the-badge&logo=visual-studio-code&logoColor=0D1117&labelColor=3300FF)
-![GitHub](https://img.shields.io/badge/-GitHub-6666FF?style=for-the-badge&logo=github&logoColor=0D1117&labelColor=3300FF)
-![Windows](https://img.shields.io/badge/-Windows-6666FF?style=for-the-badge&logo=windows&logoColor=0D1117&labelColor=3300FF)
-![microsoft-office](https://img.shields.io/badge/-microsoft_office-6666FF?style=for-the-badge&logo=microsoft-office&logoColor=0D1117&labelColor=3300FF)
-  
-### Studying in this moment:
-![Java](https://img.shields.io/badge/-Java-6666FF?style=for-the-badge&logo=java&logoColor=0D1117&labelColor=3300FF)
-![C](https://img.shields.io/badge/-c-6666FF?style=for-the-badge&logo=C&logoColor=0D1117&labelColor=3300FF)
-![Python](https://img.shields.io/badge/-Python-6666FF?style=for-the-badge&logo=python&logoColor=0D1117&labelColor=3300FF)
-
-
-### Find me:
-[![Instagram](https://img.shields.io/badge/-Instagram-6666FF?style=for-the-badge&logo=instagram&logoColor=0D1117&labelColor=3300FF)](https://www.instagram.com/matheeus_mh/)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-6666FF?style=for-the-badge&logo=LinkedIn&logoColor=0D1117&labelColor=3300FF)](https://www.linkedin.com/in/matheus-h-a-pires-9731ba219/)
-
+###
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{Matheeusmh}/count.svg" /></p> 
-<br></div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3300FF&height=120&section=footer"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Matheeusmh&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Matheeusmh&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<img align="right" height="150" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"  />
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+</div>
+
+###
+
+<div align="left">
+[![Instagram](https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge)](https://www.instagram.com/matheeus_mh/)
+
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Matheeusmh/Matheeusmh/output/snake.svg" alt="Snake animation" />
+
+###
